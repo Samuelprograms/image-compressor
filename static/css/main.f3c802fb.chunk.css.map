@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SAAU,CACV,iDAAqD,CACrD,eACF","file":"main.f3c802fb.chunk.css","sourcesContent":["* {\r\n  margin: 0;\r\n  padding: 0;\r\n  font-family: Georgia, \"Times New Roman\", Times, serif;\r\n  font-weight: 900;\r\n}\r\n"]}
